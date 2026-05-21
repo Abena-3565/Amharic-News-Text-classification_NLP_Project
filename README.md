@@ -52,13 +52,16 @@ Prediction and Classification
 
 
 ## 🚀 How to Run the Project
+
 Step 1: Clone the Repository
 git clone https://github.com/Abena-3565/Amharic-News-Text-classification_NLP_Project.git
+
 Step 2: Open Google Colab
 
 Open the notebook file:
 
 NLP_News_Classiffication.ipynb
+
 Step 3: Install Required Libraries
 pip install pandas numpy scikit-learn matplotlib seaborn
 Step 4: Run the Notebook
