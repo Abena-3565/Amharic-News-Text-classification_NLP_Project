@@ -64,6 +64,7 @@ NLP_News_Classiffication.ipynb
 
 Step 3: Install Required Libraries
 pip install pandas numpy scikit-learn matplotlib seaborn
+
 Step 4: Run the Notebook
 
 Run all cells sequentially in Google Colab.
