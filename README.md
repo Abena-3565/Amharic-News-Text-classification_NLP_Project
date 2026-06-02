@@ -1,20 +1,5 @@
 # Amharic-News-Text-classification_NLP_Project
 
-## 👨‍💻 Group Members                                  
-- Abenezer Alemayehu
-- Abrham Demsew
-- Beamlak Tesema
-- Elyas Damenu
-- Mahlet Demeke
-- Meron Tilahun
-
-### 🏫 Department
-Computer Science and Engineering (CSE)
-
-### 🎓 Year and Section
-5th Year – Section 1 Students
-
----
 
 ## 📌 Project Description
 This project focuses on **Amharic News Text Classification** using **Natural Language Processing (NLP)** and Machine Learning techniques. The objective of the project is to classify Amharic news articles into different categories automatically based on their text content.
